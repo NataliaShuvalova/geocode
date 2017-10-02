@@ -1,0 +1,12 @@
+{
+    "name": "natalia.s/test",
+    "authors": [
+        {
+            "name": "NataliaShuvalova",
+            "email": "natalia.shuvalova89@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
